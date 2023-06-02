@@ -1,0 +1,936 @@
+MainCharacter.png
+	size: 3684, 1560
+	filter: Linear, Linear
+	pma: true
+Adam warlock_arm
+	bounds: 282, 275, 40, 171
+	rotate: 90
+Adam warlock_body
+	bounds: 372, 686, 50, 179
+	rotate: 90
+Adam warlock_feet
+	bounds: 129, 635, 45, 57
+	rotate: 90
+Adam warlock_head
+	bounds: 3485, 438, 129, 129
+Adam warlock_leg
+	bounds: 118, 3, 43, 242
+Akali_L_arm
+	bounds: 1226, 1, 40, 171
+	rotate: 90
+Akali_R_arm
+	bounds: 1965, 438, 40, 171
+	rotate: 90
+Akali_R_leg
+	bounds: 634, 801, 43, 242
+Akali_backpack
+	bounds: 1213, 1222, 164, 90
+Akali_body
+	bounds: 2163, 1382, 49, 178
+Akali_feet
+	bounds: 193, 635, 45, 57
+	rotate: 90
+Akali_hair_1
+	bounds: 1779, 843, 154, 183
+Akali_hair_2
+	bounds: 1571, 408, 184, 225
+Akali_head
+	bounds: 353, 1049, 144, 149
+Akali_mask
+	bounds: 736, 275, 88, 93
+AmongUS_R_arm
+	bounds: 2469, 159, 40, 171
+AmongUS_R_leg
+	bounds: 684, 801, 43, 242
+AmongUS_body
+	bounds: 558, 686, 50, 179
+	rotate: 90
+AmongUS_feet
+	bounds: 257, 635, 45, 57
+	rotate: 90
+Arm
+	bounds: 2516, 159, 40, 171
+BlackPanther_L_arm
+	bounds: 2403, 684, 40, 171
+BlackPanther_R_arm
+	bounds: 2447, 868, 40, 171
+BlackPanther_body
+	bounds: 2219, 1382, 49, 178
+BlackPanther_feet
+	bounds: 634, 744, 51, 54
+	rotate: 90
+Black_panther_head
+	bounds: 2925, 545, 127, 128
+	rotate: 90
+Blackpanther_R_leg
+	bounds: 821, 387, 43, 242
+BruceLee_L_arm
+	bounds: 2491, 1052, 40, 171
+BruceLee_L_leg
+	bounds: 871, 387, 43, 242
+BruceLee_R_arm
+	bounds: 2450, 691, 40, 171
+BruceLee_R_leg
+	bounds: 921, 387, 43, 242
+BruceLee_body
+	bounds: 2022, 487, 49, 178
+BruceLee_feet
+	bounds: 321, 635, 45, 57
+	rotate: 90
+BruceLee_head
+	bounds: 3351, 1021, 138, 140
+	rotate: 90
+Captain_body
+	bounds: 2067, 672, 49, 178
+Captain_feet
+	bounds: 385, 635, 45, 57
+	rotate: 90
+Captain_head
+	bounds: 3060, 422, 127, 127
+Captain_leg
+	bounds: 997, 34, 43, 242
+Chopper_L_arm
+	bounds: 2494, 875, 40, 171
+Chopper_R_arm
+	bounds: 2538, 1052, 40, 171
+Chopper_R_leg
+	bounds: 1047, 34, 43, 242
+Chopper_body
+	bounds: 2111, 858, 49, 178
+Chopper_feet
+	bounds: 449, 635, 45, 57
+	rotate: 90
+Chopper_head
+	bounds: 2077, 139, 190, 167
+	rotate: 90
+Cosmo
+	bounds: 744, 688, 50, 179
+	rotate: 90
+Cosmo_arm
+	bounds: 2497, 698, 40, 171
+Cosmo_feet
+	bounds: 513, 635, 45, 57
+	rotate: 90
+Cosmo_head
+	bounds: 1667, 1224, 147, 142
+Cosmo_leg
+	bounds: 557, 1318, 43, 242
+Drax_head
+	bounds: 2925, 412, 127, 127
+Falcon_L_arm
+	bounds: 2541, 875, 40, 171
+Falcon_R_arm
+	bounds: 2585, 1052, 40, 171
+Falcon_R_leg
+	bounds: 607, 1318, 43, 242
+Falcon_body
+	bounds: 2155, 1043, 49, 178
+Falcon_feet
+	bounds: 577, 635, 45, 57
+	rotate: 90
+Falcon_head
+	bounds: 3485, 573, 131, 127
+Feet
+	bounds: 64, 635, 45, 58
+	rotate: 90
+Flash_L_arm
+	bounds: 2667, 1389, 40, 171
+Flash_L_leg
+	bounds: 734, 801, 43, 242
+Flash_R_arm
+	bounds: 2714, 1389, 40, 171
+Flash_R_leg
+	bounds: 657, 1318, 43, 242
+Flash_body
+	bounds: 2078, 488, 49, 178
+Flash_feet
+	bounds: 641, 635, 45, 57
+	rotate: 90
+Flash_head
+	bounds: 3485, 706, 133, 127
+Gamora_R_arm
+	bounds: 2502, 521, 40, 171
+Gamora_R_leg
+	bounds: 707, 1318, 43, 242
+Gamora_body
+	bounds: 756, 745, 50, 179
+	rotate: 90
+Gamora_head
+	bounds: 1260, 1051, 179, 165
+Green Arrow_Khan co
+	bounds: 580, 275, 149, 88
+Green Arrow_R_arm
+	bounds: 2544, 698, 40, 171
+Green Arrow_R_leg
+	bounds: 757, 1318, 43, 242
+Green Arrow_body
+	bounds: 930, 689, 50, 179
+	rotate: 90
+Green Arrow_bread
+	bounds: 2153, 0, 133, 145
+	rotate: 90
+Green Arrow_feet
+	bounds: 705, 635, 45, 57
+	rotate: 90
+Green Arrow_hat
+	bounds: 1083, 295, 173, 89
+Green Arrow_hop cung
+	bounds: 168, 4, 201, 263
+Green Arrow_leather
+	bounds: 831, 279, 98, 102
+Green_Body
+	bounds: 2123, 674, 49, 178
+Green_Head
+	bounds: 3203, 954, 136, 138
+	rotate: 90
+Green_L_arm
+	bounds: 2588, 875, 40, 171
+Green_L_leg
+	bounds: 807, 1318, 43, 242
+Green_R_arm
+	bounds: 2632, 1056, 40, 171
+Green_R_leg
+	bounds: 784, 801, 43, 242
+Green_feet
+	bounds: 1053, 638, 45, 57
+	rotate: 90
+Groot_arm
+	bounds: 2549, 521, 40, 171
+Groot_body
+	bounds: 942, 745, 50, 179
+	rotate: 90
+Groot_feet
+	bounds: 1117, 638, 45, 57
+	rotate: 90
+Groot_head
+	bounds: 1657, 1372, 188, 157
+	rotate: 90
+Groot_leg
+	bounds: 834, 801, 43, 242
+Harley_Hair
+	bounds: 3369, 1165, 115, 156
+	rotate: 90
+Harley_L_arm
+	bounds: 2591, 698, 40, 171
+Harley_L_leg
+	bounds: 971, 388, 43, 242
+Harley_L_tail
+	bounds: 1726, 329, 73, 148
+	rotate: 90
+Harley_R_arm
+	bounds: 2635, 879, 40, 171
+Harley_R_leg
+	bounds: 1021, 389, 43, 242
+Harley_R_tail
+	bounds: 2448, 336, 108, 155
+Harley_body
+	bounds: 2167, 859, 49, 178
+Harley_feet
+	bounds: 1181, 638, 45, 57
+	rotate: 90
+Harley_head
+	bounds: 3498, 976, 137, 134
+Hell Boy_R_arm
+	bounds: 2679, 1056, 40, 171
+Hell Boy_R_leg
+	bounds: 884, 801, 43, 242
+Hell Boy_body
+	bounds: 1116, 689, 50, 179
+	rotate: 90
+Hell Boy_cloath
+	bounds: 64, 686, 147, 356
+Hell Boy_feet
+	bounds: 1245, 638, 45, 57
+	rotate: 90
+Hell Boy_head
+	bounds: 3055, 1084, 152, 141
+	rotate: 90
+Iron Mask_Leg
+	bounds: 934, 801, 43, 242
+Iron Mask_arm
+	bounds: 2563, 344, 40, 171
+Iron Mask_feet
+	bounds: 1309, 639, 45, 57
+	rotate: 90
+Iron Mask_head
+	bounds: 95, 1048, 150, 164
+	rotate: 90
+IronMan_L_arm
+	bounds: 2596, 521, 40, 171
+IronMan_R_arm
+	bounds: 2638, 702, 40, 171
+IronMan_R_leg
+	bounds: 984, 801, 43, 242
+IronMan_body
+	bounds: 2211, 1043, 49, 178
+IronMan_feet
+	bounds: 1373, 639, 45, 57
+	rotate: 90
+IronMan_head
+	bounds: 3243, 489, 128, 127
+James_R_arm
+	bounds: 2682, 879, 40, 171
+James_R_leg
+	bounds: 1034, 801, 43, 242
+James_body
+	bounds: 1128, 746, 50, 179
+	rotate: 90
+James_feet
+	bounds: 1437, 639, 45, 57
+	rotate: 90
+James_hair1
+	bounds: 1621, 1252, 39, 60
+James_hair2
+	bounds: 3344, 755, 134, 127
+James_hair3
+	bounds: 2124, 1227, 148, 138
+	rotate: 90
+James_head
+	bounds: 3194, 356, 127, 127
+Jessi_R_arm
+	bounds: 2726, 1056, 40, 171
+Jessi_R_leg
+	bounds: 857, 1318, 43, 242
+Jessi_body
+	bounds: 1302, 690, 50, 179
+	rotate: 90
+Jessi_feet
+	bounds: 1404, 2, 45, 57
+	rotate: 90
+Jessi_hair
+	bounds: 376, 9, 260, 198
+	rotate: 90
+Jessi_head
+	bounds: 3059, 289, 127, 127
+Jinx_L_arm
+	bounds: 2761, 1389, 40, 171
+Jinx_L_leg
+	bounds: 907, 1318, 43, 242
+Jinx_R_arm
+	bounds: 2808, 1389, 40, 171
+Jinx_R_leg
+	bounds: 957, 1318, 43, 242
+Jinx_body
+	bounds: 2093, 1042, 55, 178
+Jinx_bullet_chain
+	bounds: 460, 276, 113, 66
+Jinx_feet
+	bounds: 1468, 2, 45, 57
+	rotate: 90
+Jinx_hair_2
+	bounds: 0, 1048, 88, 512
+Jinx_hair_2_1
+	bounds: 834, 1220, 92, 161
+	rotate: 90
+Jinx_head
+	bounds: 3203, 1096, 141, 137
+Joker_R_arm
+	bounds: 2855, 1389, 40, 171
+Joker_R_leg
+	bounds: 1007, 1318, 43, 242
+Joker_body
+	bounds: 2134, 490, 49, 178
+Joker_feet
+	bounds: 2067, 375, 45, 57
+Joker_head
+	bounds: 2474, 1, 170, 152
+Kraglin_arm
+	bounds: 2563, 167, 40, 171
+Kraglin_feet
+	bounds: 2119, 375, 45, 57
+Kraglin_head
+	bounds: 1762, 437, 135, 199
+Layer 49
+	bounds: 2179, 675, 49, 178
+Layer 58 copy
+	bounds: 128, 273, 147, 356
+Leg
+	bounds: 1057, 1318, 43, 242
+Luffy_L_arm
+	bounds: 2610, 344, 40, 171
+Luffy_R_arm
+	bounds: 2643, 525, 40, 171
+Luffy_R_leg
+	bounds: 1107, 1318, 43, 242
+Luffy_body
+	bounds: 2223, 859, 49, 178
+Luffy_feet
+	bounds: 3587, 1515, 45, 57
+	rotate: 90
+Luffy_head
+	bounds: 725, 1049, 163, 132
+	rotate: 90
+Lux_L_arm
+	bounds: 2685, 702, 40, 171
+Lux_L_shoulder
+	bounds: 1718, 17, 62, 73
+Lux_R_arm
+	bounds: 2729, 879, 40, 171
+Lux_R_leg
+	bounds: 1157, 1318, 43, 242
+Lux_R_shoulder
+	bounds: 1263, 299, 63, 85
+Lux_armor
+	bounds: 1947, 31, 70, 59
+	rotate: 90
+Lux_body
+	bounds: 2267, 1043, 49, 178
+Lux_hair_1
+	bounds: 3035, 1242, 141, 162
+	rotate: 90
+Lux_hair_2
+	bounds: 2358, 497, 137, 173
+Mantis_head
+	bounds: 504, 1049, 151, 214
+	rotate: 90
+Mis_Hair_2
+	bounds: 372, 742, 255, 301
+Miss_R_arm
+	bounds: 2773, 1064, 40, 171
+Miss_R_leg
+	bounds: 0, 3, 57, 242
+Miss_body
+	bounds: 2275, 1382, 49, 178
+Miss_clothes
+	bounds: 2013, 38, 63, 133
+	rotate: 90
+Miss_feet
+	bounds: 3587, 1464, 45, 57
+	rotate: 90
+Miss_hair_1
+	bounds: 625, 374, 255, 189
+	rotate: 90
+Miss_hat
+	bounds: 1497, 58, 237, 190
+	rotate: 90
+Miss_head
+	bounds: 3328, 244, 127, 127
+Nebula_head
+	bounds: 3193, 223, 127, 127
+Neytiri_R_arm
+	bounds: 2610, 167, 40, 171
+Neytiri_R_leg
+	bounds: 1207, 1318, 43, 242
+Neytiri__feet
+	bounds: 3587, 1413, 45, 57
+	rotate: 90
+Neytiri_bang dau
+	bounds: 3107, 555, 127, 129
+	rotate: 90
+Neytiri_clothe
+	bounds: 1904, 471, 54, 179
+Neytiri_day1
+	bounds: 1333, 301, 84, 184
+	rotate: 90
+Neytiri_fore1
+	bounds: 1881, 329, 39, 129
+	rotate: 90
+Neytiri_fore2
+	bounds: 2017, 335, 33, 124
+	rotate: 90
+Neytiri_hairsau
+	bounds: 369, 323, 56, 306
+Neytiri_sau1
+	bounds: 266, 1048, 80, 150
+Neytiri_tai
+	bounds: 1524, 303, 58, 82
+Neytiri_tail
+	bounds: 432, 348, 52, 281
+Rocket_head
+	bounds: 3409, 1286, 164, 136
+Rocket_tail
+	bounds: 2269, 1228, 50, 148
+Sasuke_Leg
+	bounds: 1257, 1318, 43, 242
+Sasuke_arm
+	bounds: 2657, 348, 40, 171
+Sasuke_feet
+	bounds: 3580, 1362, 45, 57
+	rotate: 90
+Sasuke_head
+	bounds: 1584, 806, 202, 188
+	rotate: 90
+Shape 16
+	bounds: 3462, 173, 127, 127
+Shape 23
+	bounds: 1976, 1226, 149, 141
+	rotate: 90
+Shazam_Leg
+	bounds: 1307, 1318, 43, 242
+Shazam_R_arm
+	bounds: 2690, 525, 40, 171
+Shazam_body
+	bounds: 2190, 491, 49, 178
+Shazam_feet
+	bounds: 3580, 1311, 45, 57
+	rotate: 90
+Shazam_head
+	bounds: 2326, 1229, 147, 144
+	rotate: 90
+Sona_hair_R
+	bounds: 0, 251, 121, 378
+SpiderMan_L_arm
+	bounds: 2732, 702, 40, 171
+SpiderMan_R_Leg
+	bounds: 1357, 1318, 43, 242
+SpiderMan_R_arm
+	bounds: 2657, 171, 40, 171
+SpiderMan_body
+	bounds: 2279, 859, 49, 178
+SpiderMan_body copy
+	bounds: 2235, 675, 49, 178
+SpiderMan_head
+	bounds: 3327, 111, 127, 127
+Spiderman_feet
+	bounds: 3580, 1260, 45, 57
+	rotate: 90
+Squid Man Green_Leg
+	bounds: 1084, 802, 43, 242
+Squid Man Green_arm
+	bounds: 2776, 887, 40, 171
+Squid Man Green_arm_1
+	bounds: 2820, 1064, 40, 171
+Squid Man Green_body
+	bounds: 2323, 1044, 49, 178
+Squid Man Green_feet
+	bounds: 3633, 913, 45, 57
+Squid Man Green_head
+	bounds: 2305, 3, 162, 143
+Squid Soldier_Leg
+	bounds: 1134, 802, 43, 242
+Squid Soldier_arm
+	bounds: 2704, 348, 40, 171
+Squid Soldier_body
+	bounds: 2331, 1382, 49, 178
+Squid Soldier_feet
+	bounds: 3633, 850, 45, 57
+Squid Soldier_head
+	bounds: 3461, 40, 127, 127
+SuperMan_L_arm
+	bounds: 2737, 525, 40, 171
+SuperMan_R_arm
+	bounds: 2704, 171, 40, 171
+SuperMan_R_leg
+	bounds: 1184, 802, 43, 242
+SuperMan_body
+	bounds: 2387, 1382, 49, 178
+SuperMan_cloath
+	bounds: 95, 1204, 147, 356
+SuperMan_feet
+	bounds: 3633, 787, 45, 57
+SuperMan_head
+	bounds: 3055, 944, 134, 138
+	rotate: 90
+Thor_L_arm
+	bounds: 2779, 710, 40, 171
+Thor_L_leg
+	bounds: 1234, 802, 43, 242
+Thor_R_arm
+	bounds: 2823, 887, 40, 171
+Thor_R_leg
+	bounds: 1407, 1318, 43, 242
+Thor_body
+	bounds: 2443, 1382, 49, 178
+Thor_feet
+	bounds: 3625, 736, 45, 57
+	rotate: 90
+Thor_head
+	bounds: 2896, 1241, 132, 142
+Vegeta_Leg
+	bounds: 1457, 1318, 43, 242
+Vegeta_arm
+	bounds: 2867, 1064, 40, 171
+Vegeta_body
+	bounds: 2246, 491, 49, 178
+Vegeta_feet
+	bounds: 3625, 685, 45, 57
+	rotate: 90
+Vegeta_head
+	bounds: 1694, 96, 170, 221
+Wanda_L_arm
+	bounds: 2902, 1389, 40, 171
+Wanda_R_arm
+	bounds: 2949, 1389, 40, 171
+Wanda_R_leg
+	bounds: 1284, 803, 43, 242
+Wanda_body
+	bounds: 2291, 675, 49, 178
+Wanda_feet
+	bounds: 3433, 692, 45, 57
+Wanda_hair
+	bounds: 1064, 1050, 189, 165
+Wanda_head
+	bounds: 2892, 279, 127, 127
+Wanda_mask
+	bounds: 3160, 91, 127, 126
+Wolverine_R_arm
+	bounds: 2996, 1389, 40, 171
+Wolverine_R_leg
+	bounds: 1071, 390, 43, 242
+Wolverine_body
+	bounds: 1314, 747, 50, 179
+	rotate: 90
+Wolverine_feet
+	bounds: 3433, 629, 45, 57
+Wolverine_head
+	bounds: 2477, 1229, 131, 147
+Yasuo_L_arm
+	bounds: 2751, 348, 40, 171
+Yasuo_R_arm
+	bounds: 2751, 171, 40, 171
+Yasuo_R_leg
+	bounds: 1121, 390, 43, 242
+Yasuo_armor
+	bounds: 1479, 1224, 88, 135
+	rotate: 90
+Yasuo_body
+	bounds: 2335, 860, 49, 178
+Yasuo_feet
+	bounds: 3433, 566, 45, 57
+Yasuo_hair_1
+	bounds: 1140, 1221, 66, 91
+Yasuo_hair_2
+	bounds: 864, 1049, 193, 165
+Yasuo_head
+	bounds: 2750, 1241, 142, 139
+	rotate: 90
+Yasuo_scarf
+	bounds: 2651, 3, 158, 140
+	rotate: 90
+Yi_L_arm
+	bounds: 2784, 533, 40, 171
+Yi_R_arm
+	bounds: 2826, 710, 40, 171
+Yi_R_leg
+	bounds: 1171, 390, 43, 242
+Yi_body
+	bounds: 2379, 1045, 49, 178
+Yi_feet
+	bounds: 3623, 634, 45, 57
+	rotate: 90
+Yi_head
+	bounds: 1871, 107, 216, 199
+	rotate: 90
+among us_head
+	bounds: 3154, 688, 133, 127
+ashe_R_arm
+	bounds: 2870, 887, 40, 171
+ashe_R_leg
+	bounds: 1221, 390, 43, 242
+ashe_body
+	bounds: 1532, 2, 50, 179
+	rotate: 90
+ashe_cloath
+	bounds: 249, 1204, 147, 356
+ashe_dress
+	bounds: 1384, 1222, 90, 88
+	rotate: 90
+ashe_feet
+	bounds: 3623, 583, 45, 57
+	rotate: 90
+ashe_head
+	bounds: 3348, 888, 137, 127
+bat man_R_arm
+	bounds: 2914, 1064, 40, 171
+bat man_R_leg
+	bounds: 1334, 803, 43, 242
+bat man_body
+	bounds: 1821, 1381, 50, 179
+bat man_cloath
+	bounds: 403, 1206, 147, 354
+bat man_feet
+	bounds: 3623, 532, 45, 57
+	rotate: 90
+bat man_haed
+	bounds: 2615, 1233, 128, 143
+blue_R_arm
+	bounds: 2798, 356, 40, 171
+blue_R_leg
+	bounds: 1384, 803, 43, 242
+blue_body
+	bounds: 1878, 1381, 50, 179
+blue_feet
+	bounds: 3621, 481, 45, 57
+	rotate: 90
+blue_head
+	bounds: 2171, 336, 134, 148
+body
+	bounds: 1935, 1381, 50, 179
+bunny_R_arm
+	bounds: 2831, 533, 40, 171
+bunny_R_leg
+	bounds: 1434, 803, 43, 242
+bunny_body
+	bounds: 2302, 491, 49, 178
+bunny_feet
+	bounds: 3621, 430, 45, 57
+	rotate: 90
+bunny_head
+	bounds: 1584, 1014, 167, 204
+captain_L_arm
+	bounds: 2873, 710, 40, 171
+captain_R_arm
+	bounds: 2917, 887, 40, 171
+craftman_R_arm
+	bounds: 2961, 1064, 40, 171
+craftman_R_leg
+	bounds: 1484, 803, 43, 242
+craftman_body
+	bounds: 1922, 1039, 50, 179
+craftman_feet
+	bounds: 3378, 559, 45, 57
+craftman_head
+	bounds: 3482, 306, 128, 126
+deadpool_R_leg
+	bounds: 1507, 1318, 43, 242
+deadpool_dai lung
+	bounds: 1881, 374, 57, 179
+	rotate: 90
+deadpool_feet
+	bounds: 3430, 503, 45, 57
+deadpool_giaptay
+	bounds: 769, 635, 47, 171
+	rotate: 90
+deadpool_head
+	bounds: 3026, 156, 127, 127
+deadpool_kiem
+	bounds: 491, 369, 127, 260
+deadpool_phu kien chan
+	bounds: 64, 3, 47, 242
+doctorstrange_R_arm
+	bounds: 2798, 179, 40, 171
+doctorstrange_R_leg
+	bounds: 1557, 1318, 43, 242
+doctorstrange_body
+	bounds: 1992, 1381, 50, 179
+doctorstrange_cape
+	bounds: 649, 1218, 178, 94
+doctorstrange_cloath
+	bounds: 218, 686, 147, 356
+doctorstrange_feet
+	bounds: 3378, 496, 45, 57
+doctorstrange_head
+	bounds: 3492, 839, 131, 134
+	rotate: 90
+goku_R_arm
+	bounds: 2798, 2, 40, 171
+goku_R_leg
+	bounds: 1607, 1318, 43, 242
+goku_body
+	bounds: 2347, 676, 49, 178
+goku_feet
+	bounds: 3430, 440, 45, 57
+goku_head
+	bounds: 581, 20, 201, 249
+head1
+	bounds: 2892, 146, 127, 127
+head2
+	bounds: 3532, 1116, 152, 138
+hulk_R_arm
+	bounds: 2845, 356, 40, 171
+hulk_R_leg
+	bounds: 1097, 47, 43, 242
+hulk_body
+	bounds: 2049, 1381, 50, 179
+hulk_feet
+	bounds: 3378, 433, 45, 57
+hulk_head
+	bounds: 1821, 1224, 151, 148
+	rotate: 90
+kelly_R_arm
+	bounds: 2878, 533, 40, 171
+kelly_R_leg
+	bounds: 1147, 47, 43, 242
+kelly_body
+	bounds: 2391, 861, 49, 178
+kelly_feet
+	bounds: 3430, 377, 45, 57
+kelly_head
+	bounds: 1818, 656, 181, 128
+	rotate: 90
+leesin_Leg
+	bounds: 997, 0, 28, 222
+	rotate: 90
+leesin_belt
+	bounds: 1012, 637, 46, 34
+	rotate: 90
+leesin_body
+	bounds: 2435, 1045, 49, 178
+leesin_cloth
+	bounds: 3595, 5, 55, 113
+leesin_hair
+	bounds: 0, 635, 57, 407
+leesin_head
+	bounds: 3011, 811, 136, 127
+lessin_arm
+	bounds: 2920, 710, 40, 171
+lessin_feet
+	bounds: 947, 636, 58, 47
+loki_R_arm
+	bounds: 2964, 887, 40, 171
+loki_R_leg
+	bounds: 1197, 47, 43, 242
+loki_body
+	bounds: 2106, 1381, 50, 179
+loki_feet
+	bounds: 3617, 379, 45, 57
+	rotate: 90
+loki_head
+	bounds: 1758, 1032, 157, 186
+mafia_R_arm
+	bounds: 3008, 1064, 40, 171
+mafia_R_leg
+	bounds: 1247, 47, 43, 242
+mafia_body
+	bounds: 1940, 854, 50, 179
+mafia_feet
+	bounds: 3617, 328, 45, 57
+	rotate: 90
+mafia_head
+	bounds: 3294, 622, 132, 127
+mario_R_arm
+	bounds: 3043, 1389, 40, 171
+mario_R_leg
+	bounds: 1271, 390, 43, 242
+mario_body
+	bounds: 1979, 1041, 50, 179
+mario_feet
+	bounds: 3617, 277, 45, 57
+	rotate: 90
+mario_head
+	bounds: 2312, 338, 147, 129
+	rotate: 90
+mummy_R_arm
+	bounds: 3090, 1389, 40, 171
+mummy_R_leg
+	bounds: 1321, 391, 43, 242
+mummy_body
+	bounds: 1953, 669, 50, 179
+mummy_feet
+	bounds: 3328, 382, 45, 57
+	rotate: 90
+mummy_head
+	bounds: 2892, 13, 127, 127
+naruto_R_arm
+	bounds: 3137, 1389, 40, 171
+naruto_R_leg
+	bounds: 1297, 51, 43, 242
+naruto_body
+	bounds: 1997, 856, 50, 179
+naruto_day2
+	bounds: 557, 1213, 99, 85
+	rotate: 90
+naruto_feet
+	bounds: 3596, 226, 45, 57
+	rotate: 90
+naruto_hair
+	bounds: 1589, 323, 130, 79
+naruto_head
+	bounds: 1501, 639, 161, 158
+nobita_R_arm
+	bounds: 3184, 1389, 40, 171
+nobita_R_leg
+	bounds: 1371, 391, 43, 242
+nobita_body
+	bounds: 2036, 1041, 50, 179
+nobita_feet
+	bounds: 3596, 175, 45, 57
+	rotate: 90
+nobita_head
+	bounds: 2967, 678, 133, 127
+red_R_arm
+	bounds: 2845, 179, 40, 171
+red_R_leg
+	bounds: 1421, 391, 43, 242
+red_body
+	bounds: 1965, 484, 50, 179
+red_feet
+	bounds: 3596, 124, 45, 57
+	rotate: 90
+red_head
+	bounds: 3200, 821, 137, 127
+sakura_R_arm
+	bounds: 2845, 2, 40, 171
+sakura_R_leg
+	bounds: 1471, 391, 43, 242
+sakura_body
+	bounds: 2499, 1382, 49, 178
+sakura_feet
+	bounds: 3160, 28, 45, 57
+sakura_head
+	bounds: 2307, 153, 177, 155
+	rotate: 90
+soilder_L_arm
+	bounds: 3231, 1520, 40, 171
+	rotate: 90
+soilder_R_arm
+	bounds: 3409, 1520, 40, 171
+	rotate: 90
+soilder_R_leg
+	bounds: 1534, 803, 43, 242
+soilder_body
+	bounds: 2555, 1382, 49, 178
+soilder_feet
+	bounds: 695, 744, 51, 54
+	rotate: 90
+soilder_head
+	bounds: 3204, 1239, 158, 137
+sona_Leg
+	bounds: 1521, 391, 43, 242
+sona_air_L
+	bounds: 1002, 1221, 91, 131
+	rotate: 90
+sona_air_R
+	bounds: 936, 282, 99, 140
+	rotate: 90
+sona_body
+	bounds: 2611, 1382, 49, 178
+sona_feet
+	bounds: 3212, 28, 45, 57
+sona_hand
+	bounds: 3231, 1474, 40, 171
+	rotate: 90
+sona_hand2
+	bounds: 3409, 1474, 40, 171
+	rotate: 90
+sona_head
+	bounds: 1669, 642, 142, 158
+the high evolutionary_arm
+	bounds: 3231, 1428, 40, 171
+	rotate: 90
+the high evolutionary_body
+	bounds: 2010, 671, 50, 179
+the high evolutionary_cloath
+	bounds: 1787, 20, 70, 153
+	rotate: 90
+the high evolutionary_feet
+	bounds: 3264, 28, 45, 57
+the high evolutionary_head
+	bounds: 1446, 1051, 131, 165
+the high evolutionary_leg
+	bounds: 1347, 53, 43, 242
+vegito_R_arm
+	bounds: 3409, 1428, 40, 171
+	rotate: 90
+vegito_R_leg
+	bounds: 1397, 53, 43, 242
+vegito_body
+	bounds: 2251, 152, 49, 178
+vegito_feet
+	bounds: 3316, 48, 45, 57
+vegito_head
+	bounds: 789, 20, 201, 249
+venom_R_arm
+	bounds: 3231, 1382, 40, 171
+	rotate: 90
+venom_R_leg
+	bounds: 1447, 53, 43, 242
+venom_body
+	bounds: 2054, 856, 50, 179
+venom_feet
+	bounds: 3368, 60, 45, 57
+	rotate: 90
+venom_head
+	bounds: 3026, 23, 127, 127
+venom_tua
+	bounds: 282, 321, 80, 308

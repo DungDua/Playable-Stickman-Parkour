@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Door
+  - Floor
+  - PushGround
+  - ThrowGround
+  - Arrow
+  - ClimbWall
+  - FadeSwitch
+  - TNT
+  - JumpBox
+  - TrapBox
+  - CheckPoint
+  - TrySkin
+  - Pike
+  - Item
+  - Dash
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI Controller
+  - Player
+  - Ground
+  - Water
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4133630413
+    locked: 0
+  - name: Water
+    uniqueID: 2581706345
+    locked: 0
